@@ -1,0 +1,221 @@
+.tasks{
+    position: relative;
+    top: 100px;
+    left: 300px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lists{
+    position: relative;
+    top: 10px;
+    left: 438px;
+    font-size: 50px;
+    font-weight: lighter;
+    font-family: 'raleway', sans-serif;
+    color: rgb(175, 174, 174);
+}
+.box1{
+    position: absolute;
+    border: 2px solid red;
+    top: 223px;
+    left: 307px;
+    width: 200px;
+    height: 290px;
+    border-radius: 10px;
+}
+.paris1{
+    position: relative;
+    top: 15px;
+    left: 50px;
+    color: red;
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hr1{
+    position: relative;
+    width: 147px;
+    left: 23px;
+
+}
+.paris2{
+    position: relative;
+    top: 10px;
+    left: 21px;
+    color: red;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: line-through;
+}
+.form{
+    position: relative;
+    top: 20px;
+    left: 15px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box2{
+    position: absolute;
+    border: 2px solid red;
+    top: 223px;
+    left: 600px;
+    width: 200px;
+    height: 290px;
+    border-radius: 10px;
+}
+.todo1{
+    position: relative;
+    top: 15px;
+    left: 50px;
+    color: red;
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hr2{
+    position: relative;
+    width: 147px;
+    left: 23px;
+}
+.todo2{
+    position: relative;
+    top: 10px;
+    left: 21px;
+    color: red;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: line-through;
+}
+.form2{
+    position: relative;
+    top: 20px;
+    left: 15px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box3{
+    position: absolute;
+    border: 2px solid red;
+    top: 223px;
+    left: 900px;
+    width: 200px;
+    height: 290px;
+    border-radius: 10px;
+}
+.todo3{
+    position: relative;
+    top: 15px;
+    left: 50px;
+    color: red;
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hr3{
+    position: relative;
+    width: 147px;
+    left: 23px;
+}
+.todo4{
+    position: relative;
+    top: 10px;
+    left: 21px;
+    color: red;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: line-through;
+}
+.form3{
+    position: relative;
+    top: 20px;
+    left: 15px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.plus{
+    position: absolute;
+    font-size: 27px;
+    width: 28px;
+    height: 28px;
+    border: 1px solid red;
+    text-align: center;
+    color: white;
+    background-color: crimson;
+    border-radius: 25px;
+    top: 147px;
+    left: 900px;
+}
+.plus1{
+    position: absolute;
+    color: rgb(175, 174, 174);
+    top: 145px;
+    left: 930px;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.footer{
+    border-top: 1px solid lightgray;
+    position: fixed;
+    margin: 0px;
+    top: 560px;
+    width: 100%;
+    height: 50px;
+    background-color: white;
+
+}
+span{
+    position: relative;
+    left: 43%;
+    top: 15px;
+    color: gray;
+    padding-left: 5px;
+    font-size: 25px;
+}
+
+.parent{
+    filter: blur(5px);
+    z-index: -1;
+}
+.parent2{
+    position: absolute;
+    border: 1px solid red;
+    width: 315px;
+    height: 150px;
+    z-index: +1;
+    top: 250px;
+    left: 530px;
+    border-radius: 5px;
+    background-color: white;
+}
+.new{
+    position: relative;
+    top: 20px;
+    left: 100px;
+    color: crimson;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.new2{
+    position: relative;
+    border: 1px solid crimson;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    top: 30px;
+    left: 55px;
+}
+.new3{
+    position: relative;
+    background-color: crimson;
+    color: white;
+    font-size: 20px;
+    border: 1px solid crimson;
+    border-radius: 15px;
+    width: 100px;
+    height: 2rem;
+    top: 40px;
+    left: 110px;
+    text-align: center;
+}

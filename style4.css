@@ -1,0 +1,163 @@
+hr{
+    display: inline-block;
+    position: relative;
+    width: 200px;
+    top: 80px;
+    left: 320px;
+}
+.trip{
+    display: inline-block;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    top: 80px;
+    left: 320px;
+}
+i{
+    position: relative;
+    top: 160px;
+    left: -80px;
+    color: white;
+    border: 1px solid crimson;
+    background-color: crimson;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    padding-left: 7px;
+    padding-top: 7px;
+    
+}
+
+.back{
+    position: relative;
+    top: 120px;
+    left: 695px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    color: gray;
+}
+.box{
+    position: relative;
+    border: 1px solid red;
+    border-radius: 5px;
+    top: 155px;
+    left: 530px;
+    width: 280px;
+    height: 280px;
+}
+
+.paris1{
+    position: relative;
+    top: 15px;
+    left: 50px;
+    color: red;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hr1{
+    position: relative;
+    width: 200px;
+    left: 70px;
+    top: 8px;
+
+}
+.paris2{
+    position: relative;
+    top: 10px;
+    left: 80px;
+    color: red;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: line-through;
+}
+.form{
+    position: relative;
+    top: 30px;
+    left: 25px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.plus{
+    position: relative;
+    top: 100px;
+    left: 235px;
+    font-size: 35px;
+    color: white;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    background-color: brown;
+    border-radius: 50%;
+}
+
+.parent3{
+    filter: blur(7px);
+    z-index: -1;
+}
+
+.parent2{
+    position: absolute;
+    border: 1px solid red;
+    width: 315px;
+    height: 150px;
+    z-index: +1;
+    top: 250px;
+    left: 530px;
+    border-radius: 5px;
+    background-color: white;
+}
+.new{
+    position: relative;
+    top: 20px;
+    left: 100px;
+    color: crimson;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.new2{
+    position: relative;
+    border: 1px solid crimson;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    top: 30px;
+    left: 55px;
+}
+.new3{
+    position: relative;
+    background-color: crimson;
+    color: white;
+    font-size: 20px;
+    border: 1px solid crimson;
+    border-radius: 15px;
+    width: 100px;
+    height: 2rem;
+    top: 40px;
+    left: 110px;
+    text-align: center;
+}
+
+.footer{
+    border-top: 1px solid lightgray;
+    position: fixed;
+    margin: 0px;
+    top: 560px;
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    font-size: 25px;
+}
+span{
+    position: relative;
+    left: 43%;
+    top: 15px;
+    border: 0px;
+    color: gray;
+    background-color: white;
+    padding-left: 5px;
+    font-size: 25px;
+    
+}
+
