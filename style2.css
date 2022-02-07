@@ -91,6 +91,9 @@ i{
     background-color: brown;
     border-radius: 50%;
 }
+a{
+    text-decoration: none;
+}
 
 .footer{
     border-top: 1px solid lightgray;
